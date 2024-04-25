@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\bin\Debug\netcoreapp3.1\CondicaoFor.exe
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\bin\Debug\netcoreapp3.1\CondicaoFor.deps.json
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\bin\Debug\netcoreapp3.1\CondicaoFor.runtimeconfig.json
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\bin\Debug\netcoreapp3.1\CondicaoFor.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\bin\Debug\netcoreapp3.1\CondicaoFor.dll
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\bin\Debug\netcoreapp3.1\CondicaoFor.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.dll
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoFor\obj\Debug\netcoreapp3.1\CondicaoFor.genruntimeconfig.cache

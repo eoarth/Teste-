@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\bin\Debug\netcoreapp3.1\ClasseMath.exe
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\bin\Debug\netcoreapp3.1\ClasseMath.deps.json
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\bin\Debug\netcoreapp3.1\ClasseMath.runtimeconfig.json
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\bin\Debug\netcoreapp3.1\ClasseMath.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\bin\Debug\netcoreapp3.1\ClasseMath.dll
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\bin\Debug\netcoreapp3.1\ClasseMath.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\obj\Debug\netcoreapp3.1\ClasseMath.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\obj\Debug\netcoreapp3.1\ClasseMath.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\obj\Debug\netcoreapp3.1\ClasseMath.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\obj\Debug\netcoreapp3.1\ClasseMath.dll
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\obj\Debug\netcoreapp3.1\ClasseMath.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\ClasseMath\obj\Debug\netcoreapp3.1\ClasseMath.genruntimeconfig.cache

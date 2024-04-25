@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\bin\Release\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\bin\Release\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\bin\Release\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\bin\Release\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\bin\Release\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\bin\Release\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CursoCSharp\obj\Release\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache

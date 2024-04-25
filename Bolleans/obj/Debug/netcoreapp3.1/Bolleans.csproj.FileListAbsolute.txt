@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\bin\Debug\netcoreapp3.1\Bolleans.exe
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\bin\Debug\netcoreapp3.1\Bolleans.deps.json
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\bin\Debug\netcoreapp3.1\Bolleans.runtimeconfig.json
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\bin\Debug\netcoreapp3.1\Bolleans.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\bin\Debug\netcoreapp3.1\Bolleans.dll
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\bin\Debug\netcoreapp3.1\Bolleans.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.dll
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\Bolleans\obj\Debug\netcoreapp3.1\Bolleans.genruntimeconfig.cache

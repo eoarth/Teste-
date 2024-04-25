@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\bin\Debug\netcoreapp3.1\CondicaoIfElse.exe
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\bin\Debug\netcoreapp3.1\CondicaoIfElse.deps.json
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\bin\Debug\netcoreapp3.1\CondicaoIfElse.runtimeconfig.json
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\bin\Debug\netcoreapp3.1\CondicaoIfElse.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\bin\Debug\netcoreapp3.1\CondicaoIfElse.dll
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\bin\Debug\netcoreapp3.1\CondicaoIfElse.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\obj\Debug\netcoreapp3.1\CondicaoIfElse.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\obj\Debug\netcoreapp3.1\CondicaoIfElse.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\obj\Debug\netcoreapp3.1\CondicaoIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\obj\Debug\netcoreapp3.1\CondicaoIfElse.dll
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\obj\Debug\netcoreapp3.1\CondicaoIfElse.pdb
+C:\Users\Usuario\Desktop\CursoCSharp\CondicaoIfElse\obj\Debug\netcoreapp3.1\CondicaoIfElse.genruntimeconfig.cache
